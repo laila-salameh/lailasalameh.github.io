@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: Laila Salameh,
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hello! My name is Laila Salameh and I am a DREAM-High Scholar. I am interested in medical sciences because I enjoy studying patterns and their roots. The idea of learning about cancer through coding and heatmaps excites me. Medicine has always been less of an interest and more of a passion for me. Learning how to recognize when someone is hurt and being able to accurately help them is a dream. This oppurtunity means the world to me and I am so excited to learn!",
 
   /*
   Optional photo:
@@ -43,8 +43,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/lailasalameh/1447223"
   ],
 
   /*
@@ -64,8 +63,7 @@ const studentProfile = {
   */
   github: [
     {
-      title: "My GitHub Profile",
-      url: "https://github.com/"
+      title: "My GitHub Profile",""
     }
   ]
 };
